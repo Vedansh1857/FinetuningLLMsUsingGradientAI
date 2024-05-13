@@ -10,8 +10,8 @@ Original file is located at
 !pip install gradientai --upgrade
 
 import os
-os.environ['GRADIENT_WORKSPACE_ID']='1b0d28f6-6d58-4658-bf9a-bcae328b8e5e_workspace'
-os.environ['GRADIENT_ACCESS_TOKEN']='GUWiw01b9eY19QHA03KCTcLLZkkwDmre'
+os.environ['GRADIENT_WORKSPACE_ID']=''
+os.environ['GRADIENT_ACCESS_TOKEN']=''
 
 from gradientai import Gradient
 
